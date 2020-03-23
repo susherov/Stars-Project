@@ -1,4 +1,5 @@
 from __future__ import division, print_function
+from scipy import constants as con
 import numpy as np
 
 ## All the contants
